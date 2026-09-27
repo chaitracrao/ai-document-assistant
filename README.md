@@ -80,6 +80,5 @@ Based on Tech With Tim’s “How to Build a Production-Ready RAG AI Agent in Py
 
 Tutorial: https://www.youtube.com/watch?v=AUQJ9eeP-Ls
 
-Original repository: https://github.com/techwithtim/ProductionGradeRAGPythonApp
 
-This repository documents my learning and development of the tutorial project.
+This repository documents my learning and development of the  project.
